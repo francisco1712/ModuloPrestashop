@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>francisco</name>
+    <displayName><![CDATA[M&oacute;dulo de Francisco]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Esta es la descripci&oacute;n del M&oacute;dulo de Francisco]]></description>
+    <author><![CDATA[Francisco Navarro]]></author>
+    <tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[¿Estás segur@ que quieres desinstalarlo?]]></confirmUninstall>
+    <is_configurable>0</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
